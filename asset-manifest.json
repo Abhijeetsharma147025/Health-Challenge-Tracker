@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Health-Challenge-Tracker/static/css/main.a58e75da.css",
+    "main.js": "/Health-Challenge-Tracker/static/js/main.cb502486.js",
+    "index.html": "/Health-Challenge-Tracker/index.html",
+    "main.a58e75da.css.map": "/Health-Challenge-Tracker/static/css/main.a58e75da.css.map",
+    "main.cb502486.js.map": "/Health-Challenge-Tracker/static/js/main.cb502486.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a58e75da.css",
+    "static/js/main.cb502486.js"
+  ]
+}
